@@ -25,10 +25,3 @@ You can execute the test suite by going into the `bin` directory and running ```
 The test named `example` in the `ModularMadnessTest` test fixture exercises the example provided in the original task specification.
 
 (couldn't run tests as my current office laptop facing some security issues related to c++ plugins)
-
-# Stuff yet to be addressed:
-
-- [ ] Implement cyclic graphs
-- [ ] Implement signal summing for multiple inputs
-- [ ] Limit output strings to sixteen times the number of input strings
-- [ ] Add license file and license boilerplate blocks to source code
