@@ -4,7 +4,7 @@ code snippets in c++ to process audio clips etc
 
 **Ableton Programing assignment**
 
-# Modular Madness
+# Modular Madness Assignment
 
 To compile the code go to repo location and execute `make` command
 
@@ -26,7 +26,7 @@ The test named `example` in the `ModularMadnessTest` test fixture exercises the 
 
 (couldn't run tests as my current office laptop facing some security issues related to c++ plugins)
 
-# To-Do:
+# Stuff yet to be addressed:
 
 - [ ] Implement cyclic graphs
 - [ ] Implement signal summing for multiple inputs
